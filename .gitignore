@@ -5,3 +5,6 @@ obj/
 Debug/
 *.dll
 */Debug/*
+*/Release/*
+Release/*
+Release/
